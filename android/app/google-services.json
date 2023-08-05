@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402591632083",
+    "project_id": "food-app-edb2b",
+    "storage_bucket": "food-app-edb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402591632083:android:16ae1e37c0024331b86226",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402591632083-tgfjp29j6q73neg4ofdge0l8qb19d2mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZL6ubH1P6lEbOTYY4qG4DZ_fbMLD5Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402591632083-tgfjp29j6q73neg4ofdge0l8qb19d2mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
